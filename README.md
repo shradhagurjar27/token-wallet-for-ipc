@@ -29,19 +29,7 @@ echo "VITE_ETHERSCAN_API_KEY=YOUR_API_KEY" > .env.local
 ```
 
 ### 🏗️ Dev Environment Setup
-#### Option 1: Using a VS Code Dev Container (Recommended)
-This repository includes a **Dev Container** configuration for an instant setup.
 
-**Prerequisites:**
-- Docker
-- Visual Studio Code
-- Dev Containers Extension
-
-Click the button below to open the project in a Dev Container:
-
-[![Open in Dev Containers](https://img.shields.io/badge/Open%20in-VS%20Code-blue)](vscode://vscode-remote/your-repo)
-
-#### Option 2: Manual Setup
 **Prerequisites:**
 - Local Internet Computer Dev Environment
 - `pnpm`
