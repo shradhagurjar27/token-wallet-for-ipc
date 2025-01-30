@@ -1,7 +1,5 @@
 # Multiuser Ethereum Wallet on ICP
 
-![License](https://img.shields.io/badge/license-MIT-green.svg) ![Contributors](https://img.shields.io/github/contributors/your-repo) ![Forks](https://img.shields.io/github/forks/your-repo) ![Stargazers](https://img.shields.io/github/stars/your-repo) ![Issues](https://img.shields.io/github/issues/your-repo)
-
 ## 🚀 Overview
 This multiuser Ethereum wallet allows users to generate an Ethereum address by logging in with their Internet Identity. Users can send and receive Ethereum from other users.
 
